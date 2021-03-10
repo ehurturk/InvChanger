@@ -1,0 +1,11 @@
+name: InventoryChanger
+version: 1.0
+author: Emir
+main: me.InventoryChanger.Main
+api-version: 1.16
+description: Changes Inventory
+
+commands:
+  ichange:
+    aliases: [ic]
+    description: /ic to start the plugin
